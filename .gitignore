@@ -13,7 +13,7 @@
 \.sonarqube
 \.sonar
 \.vscode
-\.ipynb_checkpoints
+.ipynb_checkpoints
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
